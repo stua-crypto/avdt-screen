@@ -24,7 +24,7 @@
     banner.setAttribute('role', 'dialog');
     banner.setAttribute('aria-label', 'Cookie notice');
     banner.innerHTML =
-      '<p>This site uses Google cookies to measure visits and the results of our Google Ads. No cookies are set until you accept. <a href="privacy.html#cookies">Privacy notice</a></p>' +
+      '<p>This site uses Google cookies to measure visits and the results of our Google Ads. No cookies are set until you accept. <a href="https://avdt.co.uk/privacy.html#cookies">Privacy notice</a></p>' +
       '<div class="cookie-banner-actions">' +
         '<button type="button" class="btn btn-outline-dark" id="cookieDecline">Decline</button>' +
         '<button type="button" class="btn btn-primary" id="cookieAccept">Accept</button>' +
